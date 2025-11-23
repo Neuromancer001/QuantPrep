@@ -1,0 +1,5 @@
+{
+  "name": "QuantPrep AI 4",
+  "description": "A specialized interview preparation tool for quantitative finance, focusing on probability and statistics. Generates practice problems with detailed solutions using the Gemini API.",
+  "requestFramePermissions": []
+}
